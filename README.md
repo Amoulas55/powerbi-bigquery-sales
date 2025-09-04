@@ -30,6 +30,14 @@ It contains **orders, products, users, and distribution center data**. These tab
 
 ---
 
+## 🛠️ Technologies Used
+
+- **SQL (Google BigQuery)** – for data extraction and transformation  
+- **Power BI** – for building interactive dashboards and data visualizations  
+- **Kaggle Dataset** – sales dataset as the data source  
+- **DAX** – for calculated measures and KPIs  
+
+
 ## 📈 Key Visualizations
 
 1. **Monthly Revenue Trend** – Time-series line chart showing growth patterns.
